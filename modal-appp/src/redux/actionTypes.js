@@ -1,0 +1,11 @@
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const REMOVE_FROM_CART = 'REMOVE_FROM_CART';
+export const ADD_TO_FAVORITE = 'ADD_TO_FAVORITE';
+export const REMOVE_FROM_FAVORITE = 'REMOVE_FROM_FAVORITE';
+export const GET_PRODUCTS_SUCCESS = 'GET_PRODUCTS_SUCCESS'; 
+export const CLOSE_MODAL = 'CLOSE_MODAL';
+export const OPEN_MODAL = 'OPEN_MODAL';
+export const CLICK_BUTTON = 'CLICK_BUTTON';
+
+
+

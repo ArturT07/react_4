@@ -1,0 +1,39 @@
+
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around
+}
+
+.product-card {
+  width: 300px;
+  margin: 10px;
+  margin-bottom: 40px;
+  padding: 10px;
+  background-color: #fff;
+  box-shadow: 0 0 20px 1px rgb(80, 80, 80);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-inline: 100px;
+
+}
+.favorite-icon {
+  width: 30px;
+  margin-top: 10px;
+}
+
+.product-card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.product-card h3 {
+  margin-top: 10px;
+}
+
+.product-card button {
+  margin-top: 10px;
+}

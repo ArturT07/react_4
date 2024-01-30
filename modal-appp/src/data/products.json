@@ -1,0 +1,82 @@
+
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "price": 25.99,
+      "image": "/images/apple.png",
+      "article": "123456",
+      "color": "Red"
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "price": 19.99,
+      "image": "/images/bannana.png",
+      "article": "789012",
+      "color": "Yellow"
+    },
+    {
+      "id": 3,
+      "name": "Bilberry",
+      "price": 36.50,
+      "image": "/images/bilberry.png",
+      "article": "1234526",
+      "color": "Dark Blue"
+    },
+    {
+      "id": 4,
+      "name": "Pear",
+      "price": 43.78,
+      "image": "/images/pear.png",
+      "article": "7890512",
+      "color": "Green"
+    }, {
+      "id": 5,
+      "name": "Plum",
+      "price": 16.99,
+      "image": "/images/plum.png",
+      "article": "123243456",
+      "color": "Violet"
+    },
+    {
+      "id": 6,
+      "name": "Orange",
+      "price": 24.64,
+      "image": "/images/orange.png",
+      "article": "7893012",
+      "color": "Orange"
+    }, {
+      "id": 7,
+      "name": "Kiwi",
+      "price": 49.33,
+      "image": "/images/kiwi.png",
+      "article": "123422256",
+      "color": "Brown"
+    },
+    {
+      "id": 8,
+      "name": "Blackberry",
+      "price": 27.07,
+      "image": "/images/blackberry.png",
+      "article": "789056512",
+      "color": "Black"
+    }, {
+      "id": 9,
+      "name": "Watermelon",
+      "price": 31.79,
+      "image": "/images/watermelon.png",
+      "article": "123475456",
+      "color": "Green"
+    },
+    {
+      "id": 10,
+      "name": "Melon",
+      "price": 19.21,
+      "image": "/images/melon.png",
+      "article": "789031212",
+      "color": "Yellow"
+    }
+  ]
+}
